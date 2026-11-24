@@ -21,11 +21,11 @@ Even better you can submit a Pull Request with a fix.
 ## <a name="feature"></a> Want a Feature?
 
 ### Submitting an Issue
-- [Guidelines](https://github.com/deepdivesecurity/repo-template/blob/master/.github/ISSUE_TEMPLATE.md)
+- [Guidelines](https://github.com/deepdivesecurity/repo-template/blob/main/.github/ISSUE_TEMPLATE.md)
 - [Submit an Issue](https://github.com/deepdivesecurity/repo-template/issues)
 
 ### Submitting a Pull Request
-[Guidelines](https://github.com/deepdivesecurity/repo-template/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+- [Guidelines](https://github.com/deepdivesecurity/repo-template/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
 If you want to contribute and need help or don't know what should you do, you can [contact me directly](https://github.com/deepdivesecurity).
 
