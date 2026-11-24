@@ -10,7 +10,7 @@
   <p align="center">
     Template for new GitHub repos
     <br />
-    <a href="https://github.com/deepdivesecurity/repo-template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/deepdivesecurity/repo-template/issues/new?labels=bug&template=ISSUE_TEMPLATE.md">Report Bug</a>
     &middot;
     <a href="https://github.com/deepdivesecurity/repo-template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
