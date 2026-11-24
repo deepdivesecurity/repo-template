@@ -22,16 +22,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-{PROJECT DESCRIPTION}
+repo-template is a GitHub repo template aimed at providing the initial starting point for any new repo. It includes directory structure, key starting files, and templated formatting.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-
 ### Prerequisites
-- {PROJECT PREREQS}
+- N/A
 
 ### Installation
 1. Clone the repo
@@ -47,7 +46,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
-- Use when creating a new GitHub repo
+- Use when creating a new GitHub repo. "Use this template" available at the top right of the repo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
