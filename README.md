@@ -12,7 +12,7 @@
     <br />
     <a href="https://github.com/deepdivesecurity/repo-template/issues/new?labels=bug&template=01-bug-report.yml">Report Bug</a>
     &middot;
-    <a href="https://github.com/deepdivesecurity/repo-template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/deepdivesecurity/repo-template/issues/new?labels=enhancement&template=02-feature-request.yml">Request Feature</a>
   </p>
 </div>
 
