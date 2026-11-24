@@ -21,7 +21,6 @@ Even better you can submit a Pull Request with a fix.
 ## <a name="feature"></a> Want a Feature?
 
 ### Submitting an Issue
-- [Guidelines](https://github.com/deepdivesecurity/repo-template/blob/main/.github/ISSUE_TEMPLATE.md)
 - [Submit an Issue](https://github.com/deepdivesecurity/repo-template/issues)
 
 ### Submitting a Pull Request
